@@ -1,0 +1,33 @@
+.DS_Store
+.venv
+__pycache__/
+
+# Byte-compiled / optimized files
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Testing / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# OS files
+Thumbs.db
